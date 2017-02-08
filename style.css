@@ -1,0 +1,35 @@
+.title {color: palevioletred;
+	background-color: pink;
+	text-align: center;
+	margin-bottom: 30px;}
+.text {color: plum;}
+.about {background-color: thistle}
+#about {text-align:center;}
+.helper{text-align:center;}
+.section__title{background-color: thistle}
+h1 {color:palevioletred;
+	text-align:center;
+border-radius: 25px;}
+h2 {text-align: center;
+	color: palevioletred;
+	background-color: plum;
+border-radius:25px;
+margin-bottom:21px;}
+h3 {text-align: center;
+	color: palevioletred;}
+p {text-align: center;
+	color: palevioletred;}
+body {background-color: powderblue;
+font-family: cursive;}
+nav {text-align:center;}
+.header__list {list-style-type: none;}
+nav li {display:inline;}
+.header__link {color:palevioletred;
+text-decoration: none;}
+a:hover {color: white;
+text-decoration: none}
+.about_content {color:palevioletred;}
+.row {color:palevioletred;}
+.facebook__link {color:palevioletred;}
+label {display: block}
+input {display:block;}
